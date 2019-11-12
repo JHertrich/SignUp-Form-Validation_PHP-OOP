@@ -1,2 +1,2 @@
-# SignUp Form_ PHP OOP
+Sign Up Form Validation with object oriented PHP.
  
